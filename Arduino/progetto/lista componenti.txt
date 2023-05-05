@@ -1,0 +1,17 @@
+LISTA COMPONENTI MACCHINA TELECOMANDATA: 
+
+- 2X Motori DC 3V
+- 1X ESP32
+- 1X Controllo motori Ponte-H L298N
+- 2X batteria da 1.5V con portabatterie per alimentare esp
+- 8X Batterie AA da 1,5V con portabatterie
+- 1X Led rosso
+- 1X Sensore accelerometro a 3 assi
+- 1X Breadboard da 170 punti
+- 1X Resistenza da 4.7K + eventuali altre
+- 1X sensore infrarossi distanza
+- 2X ruote fisse
+- 1X ruota libera
+- Cavi vari
+
+
